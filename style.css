@@ -1,6 +1,6 @@
 @font-face{
     font-family: pressStart2p;
-    src: url(fonts/PressStart2P-Regular.ttf);
+    src: url(PressStart2P-Regular.ttf);
 }
 body{
     margin-top: 150px;
@@ -58,4 +58,5 @@ img{
 .btn .instagram:hover{
     transform: scale(1.2);
     transition: all 0.1s;
+
 } 
